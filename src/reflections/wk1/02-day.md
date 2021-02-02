@@ -1,17 +1,4 @@
-# Journals Wk1
-
-## About Me
-
----
-
-I was born and raised in Boise, Idaho. Growing up, my hobbies included, but were not limited to, Taekwondo, Pokemon, and ultimate frisbee.
-
-After graduation high school, I took a break from school to just work. After about a year of that, I decided to try college again, but found that it just wasn't for me. After dropping out, I started working at the downtown YMCA in the youth department, where I still worked up to this, and will still be working about 3 hour a week in the morning.
-
-I got an interest in coding after learning the basic amount so I could teach coding camps, and tried to teach myself, but that did not work, so after some research, I decided to sign up for this course.
-
-
-## Tuesday
+# Jouranl Day 2 Week 1
 
 1) A pseudo-class is a modifier you put on classes when you want something to happen when the class is interacted with, whether through the mouse or another key. One common one I found that is used a lot is :hover, in which something will happen when you hover the mouse over the element.
 
