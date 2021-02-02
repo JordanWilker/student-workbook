@@ -1,6 +1,8 @@
 # About Me Journal #1
 
-## About Me
+## Who am I?
+
+---
 
 I was born and raised in Boise, Idaho. Growing up, my hobbies included, but were not limited to, Taekwondo, Pokemon, and ultimate frisbee.
 ---
