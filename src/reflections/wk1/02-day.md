@@ -1,4 +1,4 @@
-# Jouranl Day 2 Week 1
+# Journal Day 2 Week 1
 
 1) A pseudo-class is a modifier you put on classes when you want something to happen when the class is interacted with, whether through the mouse or another key. One common one I found that is used a lot is :hover, in which something will happen when you hover the mouse over the element.
 
