@@ -15,3 +15,4 @@ How do you think good design influences people when visiting a website and what 
 
 Afternoon Project:
 https://github.com/JordanWilker/Site-Cloning
+https://github.com/JordanWilker/Smile-Challenge

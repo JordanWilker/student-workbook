@@ -1,4 +1,10 @@
 # Journal Day 2 Week 1
+What is a Pseudo-Class and what are some of the most common ones you think you will use
+
+What is Specificity and how might you use it to your benefit?
+
+What problems do you think you could run into if you over-utilized the !important feature?
+
 
 1) A pseudo-class is a modifier you put on classes when you want something to happen when the class is interacted with, whether through the mouse or another key. One common one I found that is used a lot is :hover, in which something will happen when you hover the mouse over the element.
 
