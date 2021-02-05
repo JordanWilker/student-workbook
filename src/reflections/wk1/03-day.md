@@ -1,4 +1,4 @@
-# Journal Day 3
+# Journal Day 3 Week 1
 
 What is your favorite tip that you think is the most beneficial to improving your design?
 
