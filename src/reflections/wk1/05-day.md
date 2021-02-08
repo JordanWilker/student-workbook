@@ -1,0 +1,3 @@
+# Journal Day 5 Week 1
+
+Overall, I have really been enjoying what I have been doing. Not in a very long time have I been able to just sit for hours and work on something without getting bored or distracted. The abilty to just sit down and turn on music and just work as the hours fly by in a flash feels really good, and I being able to put to use what I have learned was fun. Another thing that surprised me was the fact that I went from pretty much 0 knowledge on CSS and Bootstrap to going to beiong able to code out a decent looking website. And just in 5 days. I have high hopes for the rest of the course, and genuinely look forward to it.
