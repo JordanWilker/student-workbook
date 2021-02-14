@@ -1,0 +1,3 @@
+# Journal Day 5 Week 2
+
+This week I had an amazing time. Other than objects and arrays, I picked up on Javascript super fast. I also had a good time coding it as well. Even though I completed the Checkpoint early, I decided over the weekend to try it replicate to the best of my ability the game Jake showed us, and had a lot of fun and success doing it. I looke forward to the rest of the course, and hope that I continue this level of knowledge absorbtion.
